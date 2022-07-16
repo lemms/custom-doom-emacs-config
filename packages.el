@@ -50,5 +50,6 @@
 ;(unpin! t)
 
 (package! ag)
+(package! org-bullets)
 (package! tldr)
 (package! treemacs-persp)
