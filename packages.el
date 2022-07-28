@@ -51,5 +51,6 @@
 
 (package! ag)
 (package! org-bullets)
+(package! org-tree-slide)
 (package! tldr)
 (package! treemacs-persp)
